@@ -1,11 +1,24 @@
 /* Add CSS Styling */
 
-p {
+.Odd-Element {
     background-color: rgb(222, 134, 148) ;
     font-family: "Verana", "DejaVu Sans", sans-serif;
 }
 
-#ElementTwo {
+#Element-Two {
     color: #9f9fff;
+    font-size: 36px;
+}
+
+.Element-Three {
     font-size: 24px;
+}
+
+#Element-Four {
+   background-color: hsl(120, 73%, 75%);
+   font-size: 24px;
+   font-weight: bold;
+
+
+
 }
