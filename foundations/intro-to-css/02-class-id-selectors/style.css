@@ -4,3 +4,8 @@ p {
     background-color: rgb(222, 134, 148) ;
     font-family: "Verana", "DejaVu Sans", sans-serif;
 }
+
+#ElementTwo {
+    color: #9f9fff;
+    font-size: 24px;
+}
